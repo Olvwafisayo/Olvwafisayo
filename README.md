@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Olvwafisayo
+- 👋 Hi, I’m Siyanbola Fisayo
 - 👀 I’m interested in learning everything there is to know about Web Development.
 - 💻 I work with HTML & CSS
 - 🌱 I’m currently learning JavaScript
