@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning everything there is to know about Web Development.
 - 💻 I work with HTML & CSS
 - 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on Everthing related to Web Development
+- 💞️ I’m looking to collaborate on Everything related to Web Development
 - 📫 How to reach me @siyanbolafisayo01@gmail.com
 
 <!---
